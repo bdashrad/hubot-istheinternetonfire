@@ -1,7 +1,7 @@
 {
   "name": "hubot-istheinternetonfire",
   "description": "a hubot script to tell you if the internet is on fire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Brad Clark <bdashrad@gmail.com>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-istheinternetonfire.git"
+    "url": "git://github.com/bdashrad/hubot-istheinternetonfire.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-istheinternetonfire/issues"
+    "url": "https://github.com/bdashrad/hubot-istheinternetonfire/issues"
   },
 
   "dependencies": {
