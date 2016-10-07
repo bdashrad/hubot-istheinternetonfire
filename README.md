@@ -19,6 +19,6 @@ Then add **hubot-hubot-istheinternetonfire** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot is the internet on fire?
+hubot>> Not Currently.
 ```

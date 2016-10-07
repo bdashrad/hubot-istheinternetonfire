@@ -1,7 +1,7 @@
 {
   "name": "hubot-istheinternetonfire",
   "description": "a hubot script to tell you if the internet is on fire",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Brad Clark <bdashrad@gmail.com>",
   "license": "MIT",
 
