@@ -1,5 +1,7 @@
 # hubot-hubot-istheinternetonfire
 
+[![Build Status](https://travis-ci.org/bdashrad/hubot-istheinternetonfire.svg?branch=master)](https://travis-ci.org/bdashrad/hubot-istheinternetonfire)
+
 a hubot script to tell you if the internet is on fire
 
 See [`src/hubot-istheinternetonfire.coffee`](src/hubot-istheinternetonfire.coffee) for full documentation.

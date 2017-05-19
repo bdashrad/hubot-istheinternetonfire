@@ -12,5 +12,5 @@ describe 'hubot-istheinternetonfire', ->
 
     require('../src/hubot-istheinternetonfire')(@robot)
 
-  it 'registers a respond listener', ->
+  it 'registers a respond listener for "is the internet on fire"', ->
     expect(@robot.respond).to.have.been.calledWith(/\bis the internet on fire(\?)?\b/i)
