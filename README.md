@@ -1,4 +1,4 @@
-# hubot-hubot-istheinternetonfire
+# hubot-istheinternetonfire
 
 [![Build Status](https://travis-ci.org/bdashrad/hubot-istheinternetonfire.svg?branch=master)](https://travis-ci.org/bdashrad/hubot-istheinternetonfire)
 
@@ -10,12 +10,12 @@ See [`src/hubot-istheinternetonfire.coffee`](src/hubot-istheinternetonfire.coffe
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-istheinternetonfire --save`
+`npm install hubot-istheinternetonfire --save`
 
-Then add **hubot-hubot-istheinternetonfire** to your `external-scripts.json`:
+Then add **hubot-istheinternetonfire** to your `external-scripts.json`:
 
 ```json
-["hubot-hubot-istheinternetonfire"]
+["hubot-istheinternetonfire"]
 ```
 
 ## Sample Interaction
